@@ -29,7 +29,7 @@ pip install ffmpeg-python speechrecognition pydub
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/video-to-text-generator.git
+   git clone https://github.com/amit-sark/video_to_text_genaretor
    ```
 2. Navigate to the project directory:
    ```bash
