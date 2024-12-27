@@ -1,10 +1,10 @@
 # Video to Text Generator
 
 ## Images
-![Home](sample/sample-1%20(1).png)
-![Subcription](sample/sample-1%20(2).png)
-![Contact](sample/sample-1%20(3).png)
-![Feedback](sample/sample-1%20(4).png)
+![Home](sample/sample-1%20(1).png) ![Subcription](sample/sample-1%20(2).png)
+
+![Contact](sample/sample-1%20(3).png) ![Feedback](sample/sample-1%20(4).png)
+
 
 
 
