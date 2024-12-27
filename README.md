@@ -33,7 +33,7 @@ pip install ffmpeg-python speechrecognition pydub
    ```
 2. Navigate to the project directory:
    ```bash
-   cd video-to-text-generator
+   cd video_to_text_genaretor
    ```
 3. Ensure all dependencies are installed (refer to the Requirements section).
 
