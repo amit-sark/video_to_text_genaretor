@@ -1,5 +1,13 @@
 # Video to Text Generator
 
+## Images
+![Home](sample/sample-1%20(1).png)
+![Subcription](sample/sample-1%20(2).png)
+![Contact](sample/sample-1%20(3).png)
+![Feedback](sample/sample-1%20(4).png)
+
+
+
 ## Overview
 The **Video to Text Generator** is an application designed to extract textual content from video files by transcribing the audio. This tool is ideal for creating subtitles, analyzing spoken content, or converting video-based information into text format for further processing.
 
