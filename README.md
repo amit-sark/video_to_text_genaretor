@@ -1,10 +1,9 @@
 # Video to Text Generator
 
 ## Images
-![Home](sample/sample-1%20(1).png) ![Subcription](sample/sample-1%20(2).png)
-
-![Contact](sample/sample-1%20(3).png) ![Feedback](sample/sample-1%20(4).png)
-
+![sample 1](sample/sample%20(1).png) 
+![sample 2](sample/sample%20(2).png) 
+![sample 3](sample/Screenshot%202024-12-27%20202029.png)
 
 
 
@@ -27,11 +26,13 @@ The **Video to Text Generator** is an application designed to extract textual co
 - `ffmpeg` (for audio extraction)
 - `ffprobe`
 - `speech_recognition` (for transcription)
+- `customtkinter` (for gui)
+- `pillow` 
 - `pydub` (for audio processing)
 
 Install dependencies using:
 ```bash
-pip install ffmpeg-python speechrecognition pydub
+pip install ffmpeg-python speechrecognition pydub customtkinter pillow 
 ```
 
 ## Installation

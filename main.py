@@ -44,6 +44,7 @@ class Video_to_text_gui:
         x, y = (self.window.winfo_screenwidth() // 2 - width // 2), (self.window.winfo_screenheight() // 2 - height // 2)
 
         self.window.geometry(f"{width}x{height}+{x}+{y}")
+        self.window.title('video-to-text')
         self.side_bar = CTkLabel(master=self.window, width=210, height=2500, bg_color='white')
         self.side_bar.place(relx=0, rely=0)
         # element frame 
